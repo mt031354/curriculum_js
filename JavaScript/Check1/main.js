@@ -10,7 +10,7 @@ function isEven(){
     }
 }
 
-let num = isEven(numbers)
+let num = isEven(numbers);
  
 
 
